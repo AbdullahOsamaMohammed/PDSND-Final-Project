@@ -13,10 +13,6 @@ Run statistics on multiple data pools related to bicycle sharing
 
 ### Files used
 
-.DS_Store
-
-.vscode
-
 new_york_city.csv
 
 chicago.csv
