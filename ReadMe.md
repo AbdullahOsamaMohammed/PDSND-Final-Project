@@ -1,15 +1,15 @@
 ### Abdullah Osama Mohammed
 
-This repository contains Bike-Share project for Udacity
+This repository contains Bike-Share project for Udacity.
  
 ### Date created
 10/03/2019
 
 ### Project Title
-Udacity Bike-Share Project
+Udacity Bike-Share Project.
 
 ### Description
-Run statistics on multiple data pools related to bicycle sharing
+Run statistics on multiple data pools related to bicycle sharing.
 
 ### Files used
 
