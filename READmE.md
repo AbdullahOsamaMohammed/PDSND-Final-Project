@@ -1,6 +1,6 @@
 ### Abdullah Osama Mohammed
 
-This repository contains Bike-Share project for Udacity.
+This repository contains ( Second Project: Bike-Share Project ) Programming For Data Science For Enterprise Nanodegree Program That offered by Udacity.
  
 ### Date created
 10/03/2019
