@@ -30,4 +30,4 @@ numpy==1.15.4
 Click==7.0
 
 ### Credits
-Thanks Udacity for providing this wonderful opportunity to create this challenging project.
+Thanks to Udacity for giving me this opportunity to create this wonderful project.
