@@ -1,4 +1,5 @@
-
+This repository contains Bike-Share project for Udacity
+ 
 ### Date created
 10/03/2019
 
@@ -17,4 +18,4 @@ chicago.csv
 washington.csv
 
 ### Credits
-Thanks Udacity for providing this wonderful opportunity to create this challenging project!
+Thanks Udacity for providing this wonderful opportunity to create this challenging project.
