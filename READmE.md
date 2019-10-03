@@ -21,9 +21,13 @@ washington.csv
 
 ### Requirements
 
-This program was written in Python (version 3.7.1) and relies on the following libraries:
+This program was written in Python ( version 3.7.1 ) and relies on the following libraries:
 
-pandas==0.23.4 numpy==1.15.4 Click==7.0
+pandas==0.23.4 
+
+numpy==1.15.4 
+
+Click==7.0
 
 ### Credits
 Thanks Udacity for providing this wonderful opportunity to create this challenging project.
